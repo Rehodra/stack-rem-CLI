@@ -10,9 +10,9 @@ const command = process.argv[2];
 if (!command) {
   console.log("");
   console.log("  Usage:");
-  console.log("  create-stackx init             → Full-stack project");
-  console.log("  create-stackx init:backend     → Backend only");
-  console.log("  create-stackx init:frontend    → Frontend only");
+  console.log("  create-stack-rem init             → Full-stack project");
+  console.log("  create-stack-rem init:backend     → Backend only");
+  console.log("  create-stack-rem init:frontend    → Frontend only");
   console.log("");
   process.exit(1);
 }
@@ -31,7 +31,7 @@ const c = {
 function printBanner() {
   console.log("");
   console.log(c.cyan("  ╔══════════════════════════════════════╗"));
-  console.log(c.cyan("  ║") + c.bold("         create-stackx  ⚡           ") + c.cyan(" ║"));
+  console.log(c.cyan("  ║") + c.bold("        create-stack-rem  ⚡         ") + c.cyan(" ║"));
   console.log(c.cyan("  ║") + c.dim("   Node.js + Express · React + Vite  ") + c.cyan(" ║"));
   console.log(c.cyan("  ╚══════════════════════════════════════╝"));
   console.log("");
