@@ -16,18 +16,20 @@ Global npm publishing will be added in a future release.
 
 ---
 
-## 🖥 Screenshots
+##  Screenshots
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center">Landing Page</h3>
-      <img src="./assets/landing.png" width="100%" />
+     <img width="1919" height="1024" alt="Screenshot 2026-03-01 010242" src="https://github.com/user-attachments/assets/536aa7b7-2c08-41dc-b9e9-3add979c01f8" />
       <p align="center"><em>Generated frontend landing page structure</em></p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="100%">
       <h3 align="center">Terminal CLI</h3>
-      <img src="./assets/terminal.png" width="100%" />
+     <img width="954" height="420" alt="image" src="https://github.com/user-attachments/assets/07ec2273-d76d-4920-91b6-9286bb5380bf" />
       <p align="center"><em>Interactive CLI experience using Inquirer</em></p>
     </td>
   </tr>
